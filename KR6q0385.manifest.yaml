@@ -1,0 +1,63 @@
+canonical_identifier: bkk:krp/KR6q0385/v1
+canonical_location: https://kanripo.org/bkk/KR6q0385/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 聖箭堂述古
+  identifiers:
+    alt_id:
+    - X73n1455
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X73/X73n1455.xml
+    old_id: X73n1455
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0385_000.yaml, hash: 'sha256:b7036b9cf99ebc02acfaa53b0f2907c9d900876eaf3299f880db9edcf13b8e1d'}
+  - {seq: 1, filename: KR6q0385_001.yaml, hash: 'sha256:430b9dcfc4d8f6f158db24d0b30bb6546f596e3b593322499745b6590fdbe9e8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0385_000.markers.yaml, hash: 'sha256:29f92aa9ff42994b4d330a91a5ed7ace6cef15a10f524bfa0d536cd62624f8f8'}
+  - {seq: 1, role: markers, filename: assets/KR6q0385_001.markers.yaml, hash: 'sha256:2adc7eb2b2744aaf6a3755b5400d8b8e2d55904ae4c2c79d22017c38ae5463ee'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0385_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1455-A 敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0385_X_000-mulu-2
+    span:
+    - front
+    - 294
+    - 294
+  label: 聖箭堂述古
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0385_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 19470
+  label: 聖箭堂述古
+  type: juan
+  level: 1
+hash: sha256:18a6b16f2aa42d3ca501bf5b3beb99e44f0808ea2a5e7ac13f849a73ad7b86d5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
