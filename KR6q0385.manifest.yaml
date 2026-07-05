@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0385_000.yaml, hash: 'sha256:b7036b9cf99ebc02acfaa53b0f2907c9d900876eaf3299f880db9edcf13b8e1d'}
-  - {seq: 1, filename: KR6q0385_001.yaml, hash: 'sha256:430b9dcfc4d8f6f158db24d0b30bb6546f596e3b593322499745b6590fdbe9e8'}
+  - {seq: 0, filename: KR6q0385_000.yaml, hash: 'sha256:c0f49300fd8be214831701f1dea3fd9f10bf8ab0d722e84dfac09064cf6759a4'}
+  - {seq: 1, filename: KR6q0385_001.yaml, hash: 'sha256:006b8d37188aafa42cc2321940699444654ef7f0cc56b597bc69bd2a4a27d5a7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0385_000.markers.yaml, hash: 'sha256:29f92aa9ff42994b4d330a91a5ed7ace6cef15a10f524bfa0d536cd62624f8f8'}
-  - {seq: 1, role: markers, filename: assets/KR6q0385_001.markers.yaml, hash: 'sha256:2adc7eb2b2744aaf6a3755b5400d8b8e2d55904ae4c2c79d22017c38ae5463ee'}
+  - {seq: 0, role: markers, filename: assets/KR6q0385_000.markers.yaml, hash: 'sha256:c04d94582c7a55e6c252c40157c74f3e52ebc127ba36abd427035791c39dc88c'}
+  - {seq: 1, role: markers, filename: assets/KR6q0385_001.markers.yaml, hash: 'sha256:af801e545257222391d2208e7cfdcec0dfacc2d984111b6caed4fd8e273f4871'}
 table_of_contents:
 - ref:
     seq: 0
@@ -57,7 +57,4 @@ table_of_contents:
   label: 聖箭堂述古
   type: juan
   level: 1
-hash: sha256:18a6b16f2aa42d3ca501bf5b3beb99e44f0808ea2a5e7ac13f849a73ad7b86d5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2c0e34ef0a933adfb8ce53ba6be2af885a626a895029d138292ddfaffe36b070
