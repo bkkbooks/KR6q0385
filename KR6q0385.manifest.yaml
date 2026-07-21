@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0385_000.yaml, hash: 'sha256:36efd2432e3a34283bdd0e167227c0ecfbe7bba0f17f7d35a541946415a9a150'}
+  - {seq: 0, filename: KR6q0385_000.yaml, hash: 'sha256:aa05bbd56c222b2c00457003c7a9b5fd2abf6d3af8c109910c52aa8fc01a8db9'}
   - {seq: 1, filename: KR6q0385_001.yaml, hash: 'sha256:13af92a9c7f31f49899d1e0c6a1acd70c31c07951071b232325a06e159bb56f4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0385_000.markers.yaml, hash: 'sha256:7ac0d71171a37a9c8f6f43cf605b044f2c9f0e93ab8c54084db00f79233dcaa1'}
+  - {seq: 0, role: markers, filename: assets/KR6q0385_000.markers.yaml, hash: 'sha256:bfb58b72687e1ce520c55dbb2401a8f68b3908a2f573096ba6e549ee374687ad'}
   - {seq: 1, role: markers, filename: assets/KR6q0385_001.markers.yaml, hash: 'sha256:17cc87cb2cd2769e798805816bc164305766cfe8374b392673d4e1bf334a8712'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0385_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1455-A 敘
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0385_X_000-mulu-2
     span:
-    - front
+    - body
     - 294
     - 294
   label: 聖箭堂述古
@@ -57,7 +57,7 @@ table_of_contents:
   label: 聖箭堂述古
   type: juan
   level: 1
-hash: sha256:f8dada2914bbbc0fffae1a066652967977c4afa8a09495743432ba897b76b442
+hash: sha256:192de116c7023ebba01c7ca5be4036b180ee5214a8975bcfa0149b89c91cc766
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
